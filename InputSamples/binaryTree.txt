@@ -1,0 +1,13 @@
+create_binaryTree();
+add_node(3);
+add_node(5);
+add_node(2);
+add_node(7);
+add_node(4);
+delete_node(7);
+delete_tree();
+inorder();
+preorder();
+postorder();
+find(7);
+draw();
